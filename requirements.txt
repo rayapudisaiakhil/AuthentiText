@@ -8,3 +8,4 @@ spacy
 streamlit
 textblob
 textstat
+matplotlib
