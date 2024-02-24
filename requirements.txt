@@ -4,7 +4,7 @@ numpy
 pandas
 scikit_learn
 scipy
-spacy==3.7.1
+spacy
 streamlit
 textblob
 textstat
