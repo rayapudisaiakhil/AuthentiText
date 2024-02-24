@@ -9,3 +9,4 @@ streamlit
 textblob
 textstat
 matplotlib
+en_core_web_sm
