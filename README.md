@@ -7,7 +7,7 @@ We experimented with multiple approaches:
 
 2. 🧠 Transformer models (BERT) and Random Forest ensembles, which showed promise but lacked robustness.
 
-3. 🧪 High-impact feature engineering, where we achieved ~97% accuracy using a Random Forest model enriched with linguistic and semantic features like sentiment polarity, vocabulary richness, named entities, and readability metrics.
+3. 🧪 Named Entity Recognition and High-impact feature engineering, where we achieved ~97% accuracy using a Random Forest model enriched with linguistic and semantic features like sentiment polarity, vocabulary richness, named entities, and readability metrics.
 
 To make the system accessible, we also built a Streamlit web app that highlights impactful words in the prediction and provides insights into linguistic patterns—helping users understand why a piece of text is classified a certain way.
 
