@@ -11,6 +11,4 @@ We experimented with multiple approaches:
 
 To make the system accessible, we also built a Streamlit web app that highlights impactful words in the prediction and provides insights into linguistic patterns—helping users understand why a piece of text is classified a certain way.
 
-🔗 GitHub: AuthentiText Repo
-
-🖥️ Live Demo: Try the App
+🖥️ Live Demo: https://appentitext-nffbbtxqlncjazrkh7d53p.streamlit.app/
